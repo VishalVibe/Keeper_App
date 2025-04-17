@@ -1,4 +1,5 @@
-📝 Keeper App
+ Keeper App
+
 A simple and intuitive web app for creating and deleting notes. Inspired by Google Keep, this app helps you organize your thoughts and ideas quickly.
 
 🚀 Features
